@@ -1,7 +1,0 @@
-admin
-pass: Ed263219
-
-user: usernameYouCreated
-pass: ed#4#%1g1210ljhcsvma
-
-@ed123456789
